@@ -1,0 +1,61 @@
+body
+{
+    text-align: center;
+    background-color:#ff4200;
+}
+
+#webpage
+{
+    width: 960px;
+    display: inline-block;
+}
+
+a:hover /* Turns black when the cursor is pointing to it */
+{
+background-color: #fe5e41;
+}
+
+.header
+{
+    margin: 0px;
+    padding: 24px 0px 24px 0px;
+    background-color: #2B334F;
+    text-align: center;
+    width:960px;
+    font-family: 'Share Tech Mono', monospace, 'Times New Roman', Verdana; /* Using Google fonts*/ 
+}
+
+.navigationBar /* Used for the Navigation Bar */
+{
+    margin:24px 0px 24px 0px;
+    padding: 0px;
+    width:960;
+    height:33px;
+    background-color: #FF4200;
+}
+
+.navigationBarButton /* For the navigation bar buttons */
+{
+font-size: 20px;
+font-family: 'Times New Roman', Verdana;
+padding: 5px 20px;
+text-decoration: none;
+Background-color:#ff4200;
+color: black;
+Text-align:center;
+float: left;
+}
+
+#activepage    
+{
+    background-color: #FF4200;
+}
+
+#Broncos
+{
+ float:right;
+ margin: 24px 0px 24px 0px;
+ border:20px solid #2B334F;
+ position: relative; left: 200px;
+}
+
